@@ -25,7 +25,7 @@ public class Boletin1_5 {
      System.out.println("Introduzca las millas marinas: ");
      millasMarinas = leer.nextFloat();
      conversor=millasMarinas*conversionM;
-     System.out.println(+millasMarinas+"Millas marinas son " +conversor+ " metros");
+     System.out.println(+millasMarinas+" Millas marinas son " +conversor+ " metros");
      
      
         
