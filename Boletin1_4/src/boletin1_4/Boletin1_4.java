@@ -31,6 +31,9 @@ public class Boletin1_4 {
         float division = num1/num2;
         
         System.out.println(suma);
+        System.out.println(restar);
+        System.out.println(multiplicar);
+        System.out.println(division);
        
        
         
