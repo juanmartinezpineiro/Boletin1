@@ -19,6 +19,7 @@ public class Boletin1_1 {
          float base= 4.3f, altura= 3f, area;
         area = base*altura;
         System.out.println(area);
+        //prueba clonar 
     }
     
 }
